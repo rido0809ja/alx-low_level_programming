@@ -31,3 +31,5 @@ Your program should end with the value 0
 6-size.c: Write a C program that prints the size of various types on the computer it is compiled and run on.
 
 100-intel: Write a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
+
+101-quote.c: UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity
