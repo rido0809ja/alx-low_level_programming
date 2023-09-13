@@ -1,18 +1,17 @@
 #include<stdio.h>
-/*
-*main: print _putchar
+
+/**
+*main - print _putchar
 *
-*prints _putchar
+*Description: _putchar
 *
-*return 0 Always success
+*Return: Always 0 (success)
 *
 */
 
-int main (void)
+int main(void)
 {
-    printf("_putchar\n");
-    
-    return (0);
-    
-}
+	printf("_putchar\n");
 
+	return (0);
+}
